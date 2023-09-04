@@ -1,6 +1,6 @@
 # 🚗 Sensor-Equipped Autonomous Car Simulation 
 
-This project is a web-based simulation that showcases a sensor-led car with fundamental car mechanics. The core feature of this simulation is its connection to a rudimentary neural network 🧠, built from scratch without the use of any libraries. The primary objective 🎯 was to train the car model, equipped with sensors, to skillfully maneuver through traffic.
+This project is a web-based simulation that showcases a sensor-led car with fundamental car mechanics. The core feature of this simulation is its connection to a rudimentary neural network, built from scratch without the use of any libraries. The primary objective was to train the car model, equipped with sensors, to skillfully maneuver through traffic.
 
 ## 🌟 Features 🌟
 
@@ -16,7 +16,7 @@ This project is a web-based simulation that showcases a sensor-led car with fund
 
 ## 🛠️ How It Works 🛠️
 
-1. **🚗 Car Mechanics and Sensors**: The HTML app provides a visual representation of the car, its sensors, and its surroundings. The sensors detect obstacles, other vehicles, and road conditions, sending this data to the neural network 🧠.
+1. **🚗 Car Mechanics and Sensors**: The HTML app provides a visual representation of the car, its sensors, and its surroundings. The sensors detect obstacles, other vehicles, and road conditions, sending this data to the neural network.
   
 2. **🧠 Neural Network**: The custom-built neural network processes the data from the car's sensors and makes decisions on how the car should move. This includes accelerating, decelerating, and changing lanes to avoid traffic.
   
